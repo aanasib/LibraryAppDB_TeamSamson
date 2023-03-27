@@ -1,0 +1,3 @@
+file:src/test/resources/features/US02_MTG.feature:5
+file:src/test/resources/features/US02_DM.feature:5
+file:src/test/resources/features/US04_AN.feature:4
