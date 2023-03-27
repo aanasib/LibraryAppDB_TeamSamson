@@ -8,7 +8,7 @@ select count(distinct id) from users;
 -- US03
 
 -- US04
-
+select * from books where name = 'AttiaNasib';
 -- US05
 
 -- US06
